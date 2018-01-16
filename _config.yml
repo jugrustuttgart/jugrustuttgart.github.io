@@ -1,1 +1,18 @@
-theme: jekyll-theme-architect
+# Setup
+title:        JuGru Stuttgart
+tagline:      Herzlich willkommen auf der Seite der Jugendgruppe für Hörgeschädigte Stuttgart
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Robin Garcia
+  url:        https://jugrustuttgart.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
