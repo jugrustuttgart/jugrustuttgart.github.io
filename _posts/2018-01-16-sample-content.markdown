@@ -12,5 +12,5 @@ Die aktuellen Termine für die Stammtische findet ihr unter [Letsmeet.click](htt
 Außerdem wird es dieses Jahr in unregelmäßigen Abständen Veranstaltungen (z.B: Bowling, Kino, Schwimmen, etc.) geben. Termine zu diesen Events findet ihr unter [pretix.eu](https://pretix.eu/jugru/).
 Um an den Veranstaltungen teilzunehmen, könnt ihr euch unter pretix.eu ein Ticket besorgen.
 
-Ihr erreich uns unter [jugru.stuttgart@mailbox.org](jugru.stuttgart@mailbox.org) jugru.stuttgart@mailbox.org.
+Ihr erreicht uns unter [jugru.stuttgart@mailbox.org](jugru.stuttgart@mailbox.org).
 Wir freuen uns auf ein schönes 2018 mit euch und hoffen, dass wir gemeinsam viel Spaß haben werden.
